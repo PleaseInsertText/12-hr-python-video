@@ -1,0 +1,13 @@
+MOVE THE SCRIP FILE ONLY TO DOWNLOADS
+-------------------------------------
+
+Then just run this command:
+
+cd ~/Python-Slot-Machine-Discord-Bot && python3.11 -m venv mybotenv && source mybotenv/bin/activate && pip install --upgrade pip setuptools wheel && pip install discord.py && python DiscordBotSlotMachine.py
+
+-------------------------------------
+YES ITS BROKEN, change the location of where is is when u have time, this should just be used to get the active developer badge. RUN IT AT LEAST ONCE A MONTH. It still works (I thinks), idk if the bot is completely broken it just wasnt working as inteded and then just stopped working, fix it later ig.
+
+--------------------------------------
+
+After just delete the environment folder thingy in downloads, that just what I did the first time I did it, idk if it broke anything.
