@@ -1,0 +1,41 @@
+-------------
+Instructions:
+-------------
+
+1 - Make sure you have both files.
+2 - Click on the left of the play/ run/ execute
+button.
+3 - Click edit configurations.
+4 - Click + in the top left.
+5 - On the right of the second box below the
+project name (you can type in this box), click
+the files icon and select the file, do steps 2-5
+for both scripts.
+6 - Next to the play/ run/ execute button (to the
+left), click on it and choose the script, choose a
+script and then run it, you can then do the other.
+
+------------
+EXPLANATION:
+------------
+
+Scenario - script1 is executed
+
+1 - Script1 is being executed
+
+2 - When  scrip1 runs it hits the line importing
+script2
+
+3 - Script2 says to import script1 so script1 is
+completed where it paused to do script2
+as script1 not __main__
+
+4 - That script just reaches pass cuz of the if
+statement thing.
+
+5 - Then script 2 is finished and isn't __main__
+
+6 - So that also goes to else:
+
+6 - Python then goes back and finishes script1 as
+__main__ because that's what it started with.
