@@ -1,4 +1,5 @@
 MOVE THE SCRIP FILE ONLY TO DOWNLOADS
+idk man its here /home/concrete-brick/Python-Slot-Machine-Discord-Bot
 -------------------------------------
 
 Then just run this command:
