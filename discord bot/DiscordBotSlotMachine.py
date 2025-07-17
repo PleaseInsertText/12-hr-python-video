@@ -94,4 +94,4 @@ async def on_ready():
     print(f"Bot is online as {bot.user}.")
 
 # Replace with your Discord bot token
-bot.run("MTM5MjIzNTY0MzQxNzAwNjEyMA.GHk2dS.F15oK1taM0GrJ6kOluRDXE_5hUdqCUVa8YBUBc")
+bot.run(" --- YOUR BOT TOKEN --- ")
